@@ -1,0 +1,10 @@
+Q1: 72.92
+Q2: 152.35
+Q3: 228.10
+a(v) = 0.003144 * v + 0.089892
+b(v^2) = 0.000046 * v^2 + 0.423386
+Flight Distance: 1548.21 m
+Max Height: 345.15 m
+Flight Time: 16.67 s
+Time to Max Height: 7.34 s
+Final Speed: 79.23 m/s
